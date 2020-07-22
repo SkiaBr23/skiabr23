@@ -1,7 +1,7 @@
 <img align="center" width="1000" alt="GIF" src="https://media.giphy.com/media/Y3ju9oF0M92al1yuj7/giphy.gif" />
 
 
-## Hi, I'm Rafael Costa, a Computer Engineer 🚀 from Brazil! 
+## Hello, stranger! I'm Rafael Costa, a Computer Engineer 🚀 from Brazil.
 
 <br/>
 
