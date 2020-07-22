@@ -1,16 +1,59 @@
-### Hi there 👋
+## Hi, I'm Rafael Costa, a Computer Engineer 🚀 from Brazil! 
 
-<!--
-**SkiaBr23/skiabr23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/rafaelcosta23/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/skiabr23">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/raafadacosta/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/skiabr23/">
+  <img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://discord.gg/an5taQ3">
+  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+
+<br />
+
+(:heartpulse: + :gear:)
+
+When you have a mix of passion for problem-solving with a need to know how things really work under the curtains, coding sounds like the best thing humans ever came up with (or at least since that homo erectus guy knocked two rocks and made a spark in the grass :fire:).
+
+Currently, I'm working as a Full Stack Developer @ [Spread](https://spread.com.br/) and freelancer 👨🏽‍💻 @ [Upwork](https://www.upwork.com/).
+
+Between builds and compilations, I'll probably be playing basketball :basketball: or pretending to know how to make music :microphone:.
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" />
+  
+**Some bits about me:**
+
+- 👨🏻‍🎓 Education level: bacharelors degree in computer engineering at [UnB](https://www.unb.br/)
+- 👨🏽‍💻 I’m currently working with microservices on a nation-wide instant payment solution :money_with_wings: called [PIX](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos)!
+- 🌱 Currently learning Flutter and some other mobile shenanigans for independent projects.
+- 👯 Looking to collaborate with new and exciting projects - call me! 🤝
+- 💬 You can ask me anything, but beware: I talk way too much.
+- :bulb: Fun Fact: I also collaborate with audiovisual production at a local kindergarten public school w/ my mom (also known as the best teacher ever)
+- 📫 How to reach me: rafaelcosta.rdc@hotmail.com
+
+**Languages and Tools:**  
+
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+![SkiaBr23's github stats](https://github-readme-stats.vercel.app/api?username=skiabr23&show_icons=true&hide_border=true)
+
