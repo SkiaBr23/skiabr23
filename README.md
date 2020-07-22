@@ -18,7 +18,8 @@
 <a href="https://discord.gg/an5taQ3">
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-
+<br/>
+<br/>
 
 (:heartpulse: + :gear:)
 When you have a mix of passion for problem-solving with a need to know how things really work under the curtains, coding sounds like the best thing humans ever came up with (or at least since that homo erectus guy knocked two rocks and made a spark in the grass :fire:).
