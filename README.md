@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://media.giphy.com/media/TjFsDph51YvZdOtdqt/giphy.gif" />
+<img align="center" width="800" alt="GIF" src="https://media.giphy.com/media/Y3ju9oF0M92al1yuj7/giphy.gif" />
 
 
 ## Hi, I'm Rafael Costa, a Computer Engineer 🚀 from Brazil! 
