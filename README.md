@@ -35,8 +35,8 @@ Between builds and compilations, I'll probably be playing basketball :basketball
   
 **Some bits about me:**
 
-- 👨🏻‍🎓 Education level: bacharelors degree in computer engineering at [UnB](https://www.unb.br/)
-- 👨🏽‍💻 I’m currently working with microservices on a nation-wide instant payment solution :money_with_wings: called [PIX](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos)!
+- 👨🏻‍🎓 Education level: bachelors degree in computer engineering at [UnB](https://www.unb.br/)
+- 👨🏽‍💻 I’m currently working with microservices and security frameworks to build authentication solutions! :closed_lock_with_key:
 - 🌱 Currently learning Flutter and some other mobile shenanigans for independent projects.
 - 👯 Looking to collaborate with new and exciting projects - call me! 🤝
 - 💬 You can ask me anything, but beware: I talk way too much.
