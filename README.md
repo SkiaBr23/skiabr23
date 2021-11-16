@@ -27,7 +27,7 @@
 (:heartpulse: + :gear:)
 When you have a mix of passion for problem-solving with a need to know how things really work under the curtains, coding sounds like the best thing humans ever came up with (or at least since that homo erectus guy knocked two rocks and made a spark in the grass :fire:).
 
-Currently, I'm working as a Software Enginner @ [Zup I.T. Innovation](https://www.zup.com.br/).
+Currently, I'm working as a Software Enginner @ [Donus](https://www.soudonus.com.br/).
 
 Between builds and compilations, I'll probably be playing basketball :basketball: or pretending to know how to make music :microphone:.
 
