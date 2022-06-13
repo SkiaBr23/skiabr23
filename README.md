@@ -27,7 +27,7 @@
 (:heartpulse: + :gear:)
 When you have a mix of passion for problem-solving with a need to know how things really work under the curtains, coding sounds like the best thing humans ever came up with (or at least since that homo erectus guy knocked two rocks and made a spark in the grass :fire:).
 
-Currently, I'm working as a Software Enginner @ [BEES Bank (Z-Tech Ambev)](https://www.beesbank.com.br/).
+Currently, I'm working as a Staff Enginner @ [BEES Bank (Z-Tech Ambev)](https://www.beesbank.com.br/).
 
 Between builds and compilations, I'll probably be playing basketball :basketball: or pretending to know how to make music :microphone:.
 
@@ -35,8 +35,7 @@ Between builds and compilations, I'll probably be playing basketball :basketball
   
 **Some bits about me:**
 
-- 👨🏻‍🎓 Education level: bachelors degree in computer engineering at [UnB](https://www.unb.br/)
-- 👨🏽‍💻 I’m currently working with microservices and security frameworks to build authentication solutions! :closed_lock_with_key:
+- 👨🏻‍🎓 Education level: bachelors degree in Computer Engineering at [UnB](https://www.unb.br/)
 - 🌱 Currently learning Flutter and some other mobile shenanigans for independent projects.
 - 👯 Looking to collaborate with new and exciting projects - call me! 🤝
 - 💬 You can ask me anything, but beware: I talk way too much.
