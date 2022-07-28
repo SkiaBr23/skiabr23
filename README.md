@@ -27,7 +27,7 @@
 (:heartpulse: + :gear:)
 When you have a mix of passion for problem-solving with a need to know how things really work under the curtains, coding sounds like the best thing humans ever came up with (or at least since that homo erectus guy knocked two rocks and made a spark in the grass :fire:).
 
-Currently, I'm working as a Staff Enginner @ [BEES Bank (Z-Tech Ambev)](https://www.beesbank.com.br/).
+Currently, I'm working as a Staff Engineer @ [BEES Bank (Z-Tech Ambev)](https://www.beesbank.com.br/).
 
 Between builds and compilations, I'll probably be playing basketball :basketball: or pretending to know how to make music :microphone:.
 
